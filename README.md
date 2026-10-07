@@ -32,8 +32,8 @@ The assignment involves building polynomial regression models, selecting suitabl
 
 | File | Description |
 |---|---|
-| `BT2024085_var1.ipynb` | Implementation for Problem 1 |
-| `BT2024085_var2.ipynb` | Implementation for Problem 2 |
+| `Phase1.ipynb` | Implementation for Problem 1 |
+| `Phase2.ipynb` | Implementation for Problem 2 |
 | `BT2024085_predictions_var1.csv` | Test predictions for Problem 1 |
 | `BT2024085_predictions_var2.csv` | Test predictions for Problem 2 |
 
